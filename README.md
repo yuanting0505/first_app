@@ -1,28 +1,7 @@
-== README
+#Ruby on Rails Tutorial: first application...again
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the 'second' first application for the [*Ruby on Rails3 Tutorial*]
 
-Things you may want to cover:
+Because of my misuse of git, the first version of first_app build 11 months ago was removed, together with the logo of "WENDY I MISS U". 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+AHa, Aha
